@@ -4,9 +4,9 @@
 [✯] Login Cookies  
 [✯] Token/Cookie Awet  
 [✯] Fast Dump  
-[✯] Slow Dump
+[✯] Slow Dump   
 [✯] Fast Crack  
-[✯] Slow Crack
+[✯] Slow Crack  
 [✯] More Listpass  
 ## ✯⇨𝙄𝙣𝙨𝙩𝙖𝙡𝙡 𝙎𝙘𝙧𝙞𝙥𝙩 𝙊𝙣 𝙏𝙚𝙧𝙢𝙪𝙭⇦✯
 $ pkg update && upgrade  
